@@ -1,0 +1,23 @@
+{
+ "name": "Loadedtunetv",
+ "short_name": "Loadedtunetv",
+ "icons": [
+     {
+         "src": "https://github.com/Loadedtunetv/loadedtunetv-icon/blob/81f10d6c8deb9214709e892bb8989d05712116ce/android-chrome-192x192.png",
+         "sizes": "192x192",
+         "type": "image/png",
+         "purpose": "any maskable"
+     },
+     {
+         "src": "https://github.com/Loadedtunetv/loadedtunetv-icon/blob/81f10d6c8deb9214709e892bb8989d05712116ce/android-chrome-512x512.png",
+         "sizes": "512x512",
+         "type": "image/png",
+         "purpose": "any maskable"
+     }
+ ],
+ "theme_color": "#147526",
+ "background_color": "#ffffff",
+ "display": "standalone",
+ "prefer_related_applications": false,
+  "start_url": "https://www.loadedtunetv.com.ng"
+}
